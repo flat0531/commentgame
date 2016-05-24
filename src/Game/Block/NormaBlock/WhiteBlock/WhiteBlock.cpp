@@ -12,3 +12,5 @@ void WhiteBlock::draw()
 		size.x(), size.y(), 0, 0, 128, 128,
 		Textures::get("whiteblock"));
 }
+
+
